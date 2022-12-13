@@ -16,7 +16,7 @@ class ViewController: UIViewController {
 
     @IBAction func testBtn(_ sender: Any) {
         
-        print("gitCheck")
+        print("gitCheck_001")
     }
     
 }
